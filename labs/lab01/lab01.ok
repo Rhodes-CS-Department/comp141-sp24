@@ -1,6 +1,6 @@
 {
   "name": "Lab 01",
-  "endpoint": "rhodes/cs141-cowan/sp23/lab01",
+  "endpoint": "rhodes/cs141-cowan/sp24/lab01",
   "src": [
     "lab01.ipynb"
   ],
