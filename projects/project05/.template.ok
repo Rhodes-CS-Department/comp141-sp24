@@ -3,7 +3,7 @@
   "endpoint": "<#endpoint#>/project05",
   "src": [
     "P5.ipynb",
-    "tiger-time.py"
+    "tiger_time.py"
   ],
   "tests": {
       "tests/test*.py": "ok_test"
